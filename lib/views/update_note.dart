@@ -11,6 +11,8 @@ class UpdateNote extends StatefulWidget {
     required this.body,
     required this.id,
   }) : super(key: key);
+
+  
   final String body;
   final int id;
 
